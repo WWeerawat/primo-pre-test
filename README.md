@@ -24,7 +24,21 @@
 
 ## Description
 
-[PRIMO](https://www.primo.mobi/) Pre test
+[PRIMO](https://www.primo.mobi/) Pre test - Implemented `merge` function from interface with unit test using [JEST](https://jestjs.io/)
+
+## Application Structure
+<ul>
+  <li>App Service</li>
+  <ul>
+    <li>Contain merge interface</li>
+    <li>Contain merge implemented function</li>
+  </ul>
+  <li>App Service Spec</li>
+  <ul>
+    <li>Contain Unit test function</li>
+  </ul>
+</ul>
+
 
 ## Installation
 
