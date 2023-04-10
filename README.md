@@ -53,3 +53,6 @@ $ npm install
 $ npm run test
 
 ```
+
+## Expected Result
+![Expected_Result](image.png)
